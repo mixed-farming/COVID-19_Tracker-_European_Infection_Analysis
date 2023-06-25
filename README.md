@@ -1,6 +1,26 @@
 # COVID-19_Tracker-_European_Infection_Analysis
 Tracking Daily COVID-19 Infection Count in European Countries using Hadoop MapReduce and Python
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#project-description">Description</a></li>
+    <li><a href="#steps">Steps</a></li>
+    <li><a href="#how-to-run">How to run</a></li>
+    <li><a href="#results">Results</a></li>
+    <ul>
+      <li><a href="mapper">Mapper</a></li>
+      <li><a href="reducer">Reducer</a></li>
+      <ul>
+        <li><a href="output1">Intermediate Line Graph</a></li>
+        <li><a href="output2">Sorted Bar Graph</a></li>
+      </ul>
+    </ul>
+    <li><a href="#source">Source</a></li>
+  </ol>
+</details>
+
 ## Description
 The project aims to harness the power of Hadoop MapReduce and Python to track and analyze the daily COVID-19 infection count in European countries. By utilizing the distributed processing capabilities of Hadoop, we can efficiently handle large volumes of data and extract meaningful insights.
 
@@ -30,3 +50,5 @@ https://github.com/mixed-farming/COVID-19_Tracker-_European_Infection_Analysis/a
 
 ## Source
 Covid-Data: [Click here](https://github.com/owid/covid-19-data/tree/master/public/data/cases_deaths)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
