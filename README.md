@@ -5,18 +5,30 @@ Tracking Daily COVID-19 Infection Count in European Countries using Hadoop MapRe
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#description">Description</a></li>
-    <li><a href="#steps">Steps</a></li>
-    <li><a href="#how-to-run">How to run</a></li>
-    <li><a href="#results">Results</a>
-    <ul>
-      <li><a href="mapper">Mapper</a></li>
-      <li><a href="reducer">Reducer</a>
+    <li>
+      <a href="#description">Description</a>
+    </li>
+    <li>
+      <a href="#steps">Steps</a>
+    </li>
+    <li>
+      <a href="#how-to-run">How to run</a>
+    </li>
+    <li>
+      <a href="#results">Results</a>
       <ul>
-        <li><a href="intermediate-line-graph">Intermediate Line Graph</a></li>
-        <li><a href="sorted-bar-graph">Sorted Bar Graph</a></li>
-      </ul></li>
-    </ul></li>
+        <li>
+          <a href="mapper">Mapper</a>
+        </li>
+        <li>
+          <a href="reducer">Reducer</a>
+          <ul>
+            <li><a href="intermediate-line-graph">Intermediate Line Graph</a></li>
+            <li><a href="sorted-bar-graph">Sorted Bar Graph</a></li>
+          </ul>
+        </li>
+      </ul>
+     </li>
     <li><a href="#source">Source</a></li>
   </ol>
 </details>
@@ -38,9 +50,9 @@ cat data_set.csv | python3 mapper.py | python3 reducer.py
 
 ## Results
 Here are some data visuals of the output obtained:
-### Mapper
+## Mapper
 https://github.com/mixed-farming/COVID-19_Tracker-_European_Infection_Analysis/assets/94393300/850fbcf8-b40e-4e49-b944-123b0c6fd0f4
-### Reducer
+## Reducer
 #### Intermediate Line Graph
 ![reducer](https://github.com/mixed-farming/COVID-19_Tracker-_European_Infection_Analysis/assets/94393300/aa9f4ffe-389c-4083-bb0c-4d9cb545d466)
 #### Sorted Bar Graph
