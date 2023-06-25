@@ -50,15 +50,19 @@ The project aims to harness the power of Hadoop MapReduce and Python to track an
 ```
 cat data_set.csv | python3 mapper.py | python3 reducer.py
 ```
+The above command processes data from the "data_set.csv" file using a mapper script and a reducer script. It performs a series of sequential operations to transform the data and generate the final output.
 
 <!-- RESULTS -->
 ## Results
 Here are some data visuals of the output obtained:
 <!-- MAPPER -->
 ### Mapper
+The mapper script reads data from a CSV file, extracts relevant information, and performs grouping based on location. It calculates the difference in total COVID-19 cases between the first and last recorded dates for each location.<br>
 https://github.com/mixed-farming/COVID-19_Tracker-_European_Infection_Analysis/assets/94393300/850fbcf8-b40e-4e49-b944-123b0c6fd0f4
 <!-- REDUCER -->
 ### Reducer
+The reducer script processes the output from the mapper script and calculates the average daily increase in cases for each location. The results are then displayed and/or saved in JSON
+format.
 <!-- INTERMEDIATE LINE GRAPH -->
 #### Intermediate Line Graph
 ![reducer](https://github.com/mixed-farming/COVID-19_Tracker-_European_Infection_Analysis/assets/94393300/aa9f4ffe-389c-4083-bb0c-4d9cb545d466)
@@ -69,6 +73,6 @@ https://github.com/mixed-farming/COVID-19_Tracker-_European_Infection_Analysis/a
 <!-- SOURCE -->
 ## Source
 - Covid-Data: [Click here](https://github.com/owid/covid-19-data/tree/master/public/data/cases_deaths)
-- Hadoop(standalone mode) Installation and Configuration: [Click here](https://mindmajix.com/installation-and-configuration-in-hadoop#standalone)
+- Hadoop(standalone mode) installation and configuration: [Click here](https://mindmajix.com/installation-and-configuration-in-hadoop#standalone)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
