@@ -58,7 +58,8 @@ Here are some data visuals of the output obtained:
 <!-- MAPPER -->
 ### Mapper
 The mapper script reads data from a CSV file, extracts relevant information, and performs grouping based on location. It calculates the difference in total COVID-19 cases between the first and last recorded dates for each location.<br>
-https://github.com/mixed-farming/COVID-19_Tracker-_European_Infection_Analysis/assets/94393300/850fbcf8-b40e-4e49-b944-123b0c6fd0f4
+https://github.com/mixed-farming/COVID-19_Tracker-_European_Infection_Analysis/assets/94393300/6089da46-fc5f-47a8-8f4c-0b0d59125300
+
 <!-- REDUCER -->
 ### Reducer
 The reducer script processes the output from the mapper script and calculates the average daily increase in cases for each location. The results are then displayed and/or saved in JSON
