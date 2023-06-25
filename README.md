@@ -11,6 +11,11 @@ The project aims to harness the power of Hadoop MapReduce and Python to track an
 - Implementing MapReduce job in Python.
 - Analyzing daily COVID-19 infections in European countries.
 
+## How to run
+```
+cat data_set.csv | python3 mapper.py | python3 reducer.py
+```
+
 ## Results
 Here are some data visuals of the output obtained:
 ### Mapper
