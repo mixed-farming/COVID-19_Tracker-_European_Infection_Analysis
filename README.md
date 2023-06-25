@@ -57,8 +57,8 @@ The above command processes data from the "data_set.csv" file using a mapper scr
 Here are some data visuals of the output obtained:
 <!-- MAPPER -->
 ### Mapper
-The mapper script reads data from a CSV file, extracts relevant information, and performs grouping based on location. It calculates the difference in total COVID-19 cases between the first and last recorded dates for each location.
-![Analyzing Mapper 3D plot](https://github.com/mixed-farming/COVID-19_Tracker-_European_Infection_Analysis/assets/94393300/6089da46-fc5f-47a8-8f4c-0b0d59125300)
+The mapper script reads data from a CSV file, extracts relevant information, and performs grouping based on location. It calculates the difference in total COVID-19 cases between the first and last recorded dates for each location. <br>
+<a href="https://github.com/mixed-farming/COVID-19_Tracker-_European_Infection_Analysis/assets/94393300/6089da46-fc5f-47a8-8f4c-0b0d59125300">Analyzing Mapper 3D plot</a>
 
 <!-- REDUCER -->
 ### Reducer
