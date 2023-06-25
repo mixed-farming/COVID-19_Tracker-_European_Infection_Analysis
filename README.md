@@ -1,6 +1,6 @@
 # COVID-19_Tracker-_European_Infection_Analysis
 Tracking Daily COVID-19 Infection Count in European Countries using Hadoop MapReduce and Python
-
+<a name="readme-top"></a>
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -13,8 +13,8 @@ Tracking Daily COVID-19 Infection Count in European Countries using Hadoop MapRe
       <li><a href="mapper">Mapper</a></li>
       <li><a href="reducer">Reducer</a></li>
       <ul>
-        <li><a href="output1">Intermediate Line Graph</a></li>
-        <li><a href="output2">Sorted Bar Graph</a></li>
+        <li><a href="intermediate-line-graph">Intermediate Line Graph</a></li>
+        <li><a href="sorted-bar-graph">Sorted Bar Graph</a></li>
       </ul>
     </ul>
     <li><a href="#source">Source</a></li>
