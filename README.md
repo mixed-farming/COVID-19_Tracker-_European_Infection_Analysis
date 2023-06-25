@@ -16,7 +16,9 @@ Here are some data visuals of the output obtained:
 ### Mapper
 https://github.com/mixed-farming/COVID-19_Tracker-_European_Infection_Analysis/assets/94393300/850fbcf8-b40e-4e49-b944-123b0c6fd0f4
 ### Reducer
+#### Intermediate Line Graph
 ![reducer](https://github.com/mixed-farming/COVID-19_Tracker-_European_Infection_Analysis/assets/94393300/aa9f4ffe-389c-4083-bb0c-4d9cb545d466)
+#### Sorted Bar Graph
 ![reducer4](https://github.com/mixed-farming/COVID-19_Tracker-_European_Infection_Analysis/assets/94393300/62dbe8f2-ca16-462b-8ba5-8d39d949524c)
 
 
