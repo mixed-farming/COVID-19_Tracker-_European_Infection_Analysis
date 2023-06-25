@@ -24,4 +24,4 @@ https://github.com/mixed-farming/COVID-19_Tracker-_European_Infection_Analysis/a
 
 
 ## Source
-Source: [Data](https://github.com/owid/covid-19-data/tree/master/public/data/cases_deaths)
+Covid-Data: [Click here](https://github.com/owid/covid-19-data/tree/master/public/data/cases_deaths)
