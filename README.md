@@ -68,7 +68,7 @@ https://github.com/mixed-farming/COVID-19_Tracker-_European_Infection_Analysis/a
 
 <!-- SOURCE -->
 ## Source
-Covid-Data: [Click here](https://github.com/owid/covid-19-data/tree/master/public/data/cases_deaths)
-Hadoop(standalone mode) Installation and Configuration: [Click here](https://mindmajix.com/installation-and-configuration-in-hadoop#standalone)
+- Covid-Data: [Click here](https://github.com/owid/covid-19-data/tree/master/public/data/cases_deaths)
+- Hadoop(standalone mode) Installation and Configuration: [Click here](https://mindmajix.com/installation-and-configuration-in-hadoop#standalone)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
