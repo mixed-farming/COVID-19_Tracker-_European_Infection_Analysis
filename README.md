@@ -30,10 +30,10 @@ Tracking Daily COVID-19 Infection Count in European Countries using Hadoop MapRe
       </ul>
      </li>
     <li>
-      <a href="#source">Source</a>
+      <a href="#libraries-used">Libraries used</a>
     </li>
     <li>
-      <a href="#libraries-used">Libraries used</a>
+      <a href="#source">Source</a>
     </li>
   </ol>
 </details>
