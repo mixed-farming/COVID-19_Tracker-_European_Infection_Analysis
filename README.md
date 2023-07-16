@@ -29,7 +29,12 @@ Tracking Daily COVID-19 Infection Count in European Countries using Hadoop MapRe
         </li>
       </ul>
      </li>
-    <li><a href="#source">Source</a></li>
+    <li>
+      <a href="#source">Source</a>
+    </li>
+    <li>
+      <a href="#libraries-used">Libraries used</a>
+    </li>
   </ol>
 </details>
 
@@ -70,6 +75,16 @@ format.
 <!-- SORTED BAR GRAPH -->
 #### Sorted Bar Graph
 ![reducer4](https://github.com/mixed-farming/COVID-19_Tracker-_European_Infection_Analysis/assets/94393300/62dbe8f2-ca16-462b-8ba5-8d39d949524c)
+
+<!-- LIBRARIES -->
+## Libraries used
+- json
+- datetime
+- sys
+- itertools
+- matplotlib
+- numpy
+- plotly
 
 <!-- SOURCE -->
 ## Source
