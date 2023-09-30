@@ -38,7 +38,7 @@ Tracking Daily COVID-19 Infection Count in European Countries using Hadoop MapRe
   </ol>
 </details>
 
-## Description
+## Descriptions
 The project aims to harness the power of Hadoop MapReduce and Python to track and analyze the daily COVID-19 infection count in European countries. By utilizing the distributed processing capabilities of Hadoop, we can efficiently handle large volumes of data and extract meaningful insights.
 
 <!-- STEPS -->
