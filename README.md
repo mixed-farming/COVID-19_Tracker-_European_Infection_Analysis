@@ -6,7 +6,7 @@ Tracking Daily COVID-19 Infection Count in European Countries using Hadoop MapRe
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#description">Description</a>
+      <a href="#descriptions">Description</a>
     </li>
     <li>
       <a href="#steps">Steps</a>
